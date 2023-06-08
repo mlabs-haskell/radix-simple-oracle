@@ -1,0 +1,5 @@
+* Simple Oracle
+
+** References
+
+- Initial scrypto based off https://github.com/radixdlt/scrypto-examples/tree/main/defi/price-oracle
