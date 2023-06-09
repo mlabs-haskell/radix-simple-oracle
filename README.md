@@ -1,0 +1,8 @@
+# Radix Simple Oracle
+A simple Radix oracle with a frontend and test suite.
+
+This repo contains:
+
+- `scrypto`: on-chain code, with tests
+- `client`: frontend for interacting with the on-chain code
+
