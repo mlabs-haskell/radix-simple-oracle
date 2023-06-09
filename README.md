@@ -1,5 +1,5 @@
 # Radix Simple Oracle
-A simple Radix oracle with a frontend and test suite.
+A simple Radix oracle with a frontend and test suite. Try it out at https://radix-simple-oracle.netlify.app/!
 
 This repo contains:
 
