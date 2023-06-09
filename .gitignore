@@ -1,1 +1,4 @@
 .projectile
+
+# Local Netlify folder
+.netlify
